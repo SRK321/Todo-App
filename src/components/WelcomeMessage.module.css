@@ -1,0 +1,13 @@
+.Welcome {
+  font-family: 'Arial', sans-serif;
+  font-size: 1.5em;          
+  color: #333;               /* A nice dark gray for readability */
+  background-color: #f0f8ff; /* Light blue background for a welcoming feel */
+  padding: 15px;             /* Adds space inside the border */
+  border-radius: 10px;       /* Rounds the corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  text-align: center;        /* Centers the text */
+  margin: 20px auto;                 /* Resets default margin */
+  max-width: 600px;          /* Limits the width for better readability */
+
+}
